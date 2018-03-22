@@ -1,0 +1,11 @@
+node_modules/*
+.idea
+.vscode
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.DS_Store
+dist
+*.log
+
